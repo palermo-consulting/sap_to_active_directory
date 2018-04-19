@@ -1,2 +1,2 @@
-# sap_to_active_directory
+# SAP to Active Directory Interface
 Interface between SAP and Active Directory
