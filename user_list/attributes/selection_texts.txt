@@ -1,0 +1,53 @@
+003	File Options	12	12
+004	Save to PC	10	10
+005	Save to Server	14	14
+011	Archive Folder	14	14
+E01	Locking user:	13	13
+E02	Employee doesn't have NSS Number (0369)	39	39
+E03	Employee missing ADP ID (0185)	30	30
+E04	Change of ADP ID is not permitted	33	33
+E05	Employee missing Network ID (0105)	34	34
+E06	Not used	8	8
+E07	Employee missing standard hours (0007)	38	38
+E08	Employee missing basic pay (0008)	33	33
+E09	Not used	8	8
+E10	Termination missing last day paid (date type 08)	48	48
+E11	Termination missing last day worked (date type 07)	50	50
+E12	Employee missing original hire date (date type 01)	50	50
+E13	Employee missing RFC Number (0185)	34	34
+E14	Employee missing adjusted service date	38	38
+E15	Employee missing date of birth	30	30
+E16	Employee missing marital status	31	31
+E17	Employee missing gender	23	23
+E18	Employee work location missing	30	30
+E19	New hire/rehire missing bank details	36	36
+E20	Employee is incomplete - missing personal details (0002)	56	56
+E21	Employee has invalid employee group	35	35
+E22	Employee has invalid company code	33	33
+E23	Employee has invalid payroll area	33	33
+E24	Payment method Z ('transfer') does not exist (check bank details)	65	65
+E25	Employee missing NRP. Check infotype 33.	40	40
+E26	Employee missing responsibility area. Infotype 9001 missing.	60	60
+E27	Employee missing employer record. IT033/Subty 9013 missing.	59	59
+S01	No. of personnel numbers selected	33	33
+S02	Number of rejected personnel nos	32	32
+S03	Number of personnel nos in export file	38	38
+S04	Export file	11	11
+S05	Number of exported records	26	26
+T01	*-------------------------------------------------------------------------*	75	75
+T02	Personnel No.:	14	14
+T03	Error :	7	7
+T04	Warning :	9	9
+W01	Employee missing adjusted service date	38	38
+W02	Employee missing marital status	31	31
+W03	Employee missing language	25	25
+W04	Employee missing gender	23	23
+W05	New hire/rehire missing permanent address	41	41
+W06	Employee missing work email	27	27
+W07	New hire/rehire missing bank details	36	36
+W08	Not used	8	38
+W09	Not used	8	43
+W10	Not used	8	40
+W11	Not used	8	41
+W12	Not used	8	25
+W13	Employee missing original hire date	35	35
